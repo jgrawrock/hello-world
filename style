@@ -1,0 +1,29 @@
+html {font-family: Helvetica;}
+.desmotos {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg)center;
+  background-size: auto;
+}
+
+.brushes {font-size: 32px;
+background-color: mediumspringgreen;
+font-weight: bold;
+color: white;
+}
+
+.frames {font-size: 32px;
+background-color: lightcoral;
+font-weight: bold;
+color: white;
+}
+
+.paint {font-size: 32px;
+background-color: skyblue;
+font-weight: bold;
+color: white;
+
+strong {color: blue;}
